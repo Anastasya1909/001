@@ -1,0 +1,15 @@
+C:\Users\79618\Desktop\example\004_Dive\bin\Debug\net6.0\004_Dive.exe
+C:\Users\79618\Desktop\example\004_Dive\bin\Debug\net6.0\004_Dive.deps.json
+C:\Users\79618\Desktop\example\004_Dive\bin\Debug\net6.0\004_Dive.runtimeconfig.json
+C:\Users\79618\Desktop\example\004_Dive\bin\Debug\net6.0\004_Dive.dll
+C:\Users\79618\Desktop\example\004_Dive\bin\Debug\net6.0\004_Dive.pdb
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.csproj.AssemblyReference.cache
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.AssemblyInfoInputs.cache
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.AssemblyInfo.cs
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.csproj.CoreCompileInputs.cache
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.dll
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\refint\004_Dive.dll
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.pdb
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\004_Dive.genruntimeconfig.cache
+C:\Users\79618\Desktop\example\004_Dive\obj\Debug\net6.0\ref\004_Dive.dll
